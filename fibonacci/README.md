@@ -1,0 +1,34 @@
+echo # Fibonacci Sequence > fibonacci\README.md
+echo. >> fibonacci\README.md
+echo ## Description >> fibonacci\README.md
+echo The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. This coding task generates the first `n` numbers of the Fibonacci sequence. >> fibonacci\README.md
+echo. >> fibonacci\README.md
+echo Learning this aspect of coding is important because it introduces the concept of sequences and series, and helps in understanding recursion and iterative approaches in problem-solving. >> fibonacci\README.md
+echo. >> fibonacci\README.md
+echo ## Table of Contents >> fibonacci\README.md
+echo - [Description](#description) >> fibonacci\README.md
+echo - [Installation](#installation) >> fibonacci\README.md
+echo - [Usage](#usage) >> fibonacci\README.md
+echo - [Credits](#credits) >> fibonacci\README.md
+echo. >> fibonacci\README.md
+echo ## Installation >> fibonacci\README.md
+echo No specific installation is required. Ensure you have Python installed. >> fibonacci\README.md
+echo. >> fibonacci\README.md
+echo ## Usage >> fibonacci\README.md
+echo To run the Fibonacci program, use the following command: >> fibonacci\README.md
+echo ```bash >> fibonacci\README.md
+echo python fibonacci.py >> fibonacci\README.md
+echo ``` >> fibonacci\README.md
+echo. >> fibonacci\README.md
+echo You will be prompted to enter the number of Fibonacci numbers to generate: >> fibonacci\README.md
+echo ``` >> fibonacci\README.md
+echo Enter the number of Fibonacci numbers to generate: 10 >> fibonacci\README.md
+echo ``` >> fibonacci\README.md
+echo. >> fibonacci\README.md
+echo The output will be: >> fibonacci\README.md
+echo ``` >> fibonacci\README.md
+echo [0, 1, 1, 2, 3, 5, 8, 13, 21, 34] >> fibonacci\README.md
+echo ``` >> fibonacci\README.md
+echo. >> fibonacci\README.md
+echo ## Credits >> fibonacci\README.md
+echo Author: [Your Name] >> fibonacci\README.md
